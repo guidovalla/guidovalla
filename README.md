@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- - 💻 I attended the MSc in Computer Science @ University of Genoa with curriculum track in Data Science and Engineering - Artificial Intelligence
+ - 💻 I graduated in Computer Science @ University of Genoa with curriculum track in Data Science and Engineering - Artificial Intelligence
  - 🔭 I have a Bachelor's degree in Physics
 <!--
 **guidovalla/guidovalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
